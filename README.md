@@ -1,4 +1,7 @@
 # projetReseau
+
+Auteurs : ATTIKPATI Foumilayo-N'la Priscille et MOYALBAYE NDONANE Saigneta
+
 Projet_Reseau
 
 Ce projet a pour but de mettre en place un dispositif permettant d'analyser un packet et de mettre en évidence la compréhension de l'encapsulation des données et l'utilisation des bibliothèques adéquates.
